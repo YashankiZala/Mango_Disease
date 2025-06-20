@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import tempfile
-from predict import predict
+import predict
 from PIL import Image
 
 st.set_page_config(page_title="Mango Leaf Disease Detector")

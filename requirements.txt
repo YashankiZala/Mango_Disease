@@ -1,8 +1,10 @@
 streamlit
 opencv-python-headless
+mediapipe
 numpy
 matplotlib
 scikit-learn
 joblib
 scipy
-# (optionally mediapipe if proven compatible)
+tensorflow
+scikit-image
